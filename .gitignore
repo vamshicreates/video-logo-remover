@@ -1,0 +1,3 @@
+scripts/.runtime/
+scripts/__pycache__/
+*.pyc

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Logo Remover"
+  short_description: "Detect and remove visible logos from videos"
+  default_prompt: "Use $video-logo-remover to remove a visible logo from my authorized video and save a clean copy."
